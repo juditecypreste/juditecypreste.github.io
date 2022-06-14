@@ -1,15 +1,19 @@
 <header class="header">
 <div class="navigation">
-<a href="{{ '/' | prepend: site.baseurl }}" class="logo">{{ site.title }}</a>
 <ul class="menu">
-<li class="menu__entry"><a href="{{ '/resume' | prepend: site.baseurl }}">Resume</a></li>
-<li class="menu__entry"><a href="{{ '/blog' | prepend: site.baseurl }}">Blog</a></li>
+<li class="menu__entry"><a href="{{ '/' | prepend: site.baseurl }}">HOME</a></li>
+<li class="menu__entry"><a href="{{ '/reportagens' | prepend: site.baseurl }}">REPORTAGENS</a></li>  
+<li class="menu__entry"><a href="{{ '/tutoriais' | prepend: site.baseurl }}">TUTORIAIS</a></li>
+<li class="menu__entry"><a href="{{ '/projetos' | prepend: site.baseurl }}">PROJETOS</a></li>
+<li class="menu__entry"><a href="{{ '/cursosepalestras' | prepend: site.baseurl }}">CURSOS & PALESTRAS</a></li>
+<li class="menu__entry"><a href="{{ '/sobre' | prepend: site.baseurl }}">SOBRE</a></li>
+
 </ul>
 </div>
 <ul class="social-links">
 {% if site.author.email %}
 <a href="mailto:{{ site.author.email }}" class="social-links__entry" target="_blank">
-<i class="fa fa-envelope-square"></i>
+<i class="fa fa-envelope-o"></i>
 </a>
 {% endif %}
 {% if site.author.github %}
@@ -22,5 +26,12 @@
 <i class="fa fa-linkedin"></i>
 </a>
 {% endif %}
+{% if site.author.twitter %}
+<a href="https://twitter.com/{{ site.author.twitter }}" class="social-links__entry" target="_blank">
+<i class="fa fa-twitter"></i>
+</a>
+{% endif %}
 </ul>
 </header>
+
+

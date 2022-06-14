@@ -4,10 +4,10 @@
     font-family: 'Quicksand', sans-serif;  
     font-size: 100%;
     color: #012;
-    background-color: #FFF; }
+    background-color: #faf8f2; }
 
   a {
-    color: #57A;
+    color: #333;
     font-weight: bold;
     text-decoration: none; }
 
@@ -42,7 +42,7 @@
       font-weight: 400; }
 
   strong {
-    color: #16a085; }
+    color: #ffa006; }
 
   .wrapper {
     max-width: 800px;
@@ -63,30 +63,35 @@
 
   .menu {
     color: #828282;
-    font-size: 150%;
+    font-size: 90%;
+    margin: 0px;
+    margin-top: 6px;
+    padding: 0px;
+    list-style-type: none; 
+     }
+
+  .menu__entry {
+    display: inline-block;
+    margin-right: 10px; }
+  
+  .menu__entry:last-child {
+      margin-right: 20px; }
+
+  .menu__entry a {
+    font-weight: 0; }
+
+  .social-links {
+    color: #828282;
+    font-size: 90%;
+    text-align: center;
     margin: 0px;
     margin-top: 6px;
     padding: 0px;
     list-style-type: none; }
 
-  .menu__entry {
-    display: inline-block;
-    margin-right: 35px; }
-    .menu__entry:last-child {
-      margin-right: 0px; }
-
-  .menu__entry a {
-    font-weight: 400; }
-
-  .social-links {
-    float: right;
-    font-size: 150%;
-    color: #828282;
-    list-style-type: none; }
-
   .social-links__entry {
     display: inline-block;
-    margin-left: 10px; }
+    margin-right: 10px; }  
 
 /* =Titles *//*************************************************************/
   .page-title {
@@ -136,14 +141,14 @@
   .about {
     color: #828282;
     text-align: center;
-    line-height: 24px; }
+    line-height: 30px;  }
 
   .about__devider {
-    font-size: 100%;
-    letter-spacing: 9.09px; }
+    color: #ffa006;
+    font-size: 100%;}
 
   .about__text {
-    font-size: 100%; }
+    font-size: 80%; }
 
   .center-text {
     text-align: center;
@@ -170,15 +175,21 @@
 /* =Main Page *//*************************************************************/
   #about-img {
     border-radius: 13%;
-    max-width: 125px;
+    max-width: 500px;
     margin: auto;
     margin-bottom: 3%;
   }
 
   #describe-text {
+      font-size: 150%;
       display: block;
       text-align: center;
-      width: 100%; }
+      width: 100%; 
+    }
+  #describe-professional {
+      color: #ffa006;
+      text-align: center;
+      font-size: 100%;}
 
 /* =Small screen *//*************************************************************/
   @media (max-width: 500px) {
