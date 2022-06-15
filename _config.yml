@@ -4,7 +4,7 @@ description: >
 
 
 baseurl: "/meu-site" # the subpath of your site, e.g. /blog/
-url: "juditecypreste.github.io" # the base hostname & protocol for your site
+url: "juditecypreste.com" # the base hostname & protocol for your site
 
 author:
   fullname: Judite Cypreste
