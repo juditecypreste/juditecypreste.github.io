@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Cursos & Palestras
-subtitle: Palestras, keynotes e tutoriais que já apresentei
+title: Palestras
+subtitle: Palestras e keynotes que já apresentei
 ---
 ### 2021
 <a href="https://www.youtube.com/watch?v=NTcTfOcaD44">**PYTHON BRASIL[2021]**</a>  

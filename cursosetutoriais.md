@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tutoriais
-subtitle: Tutoriais de análises de dados compartilhados para aprendizado
+title: Cursos & Tutoriais
+subtitle: Materiais para estudo compartilhados
 ---
 
 <div>
