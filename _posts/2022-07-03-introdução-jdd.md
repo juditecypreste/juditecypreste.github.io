@@ -27,9 +27,9 @@ Na segunda parte, faremos o exercício da “fonte reversa” e buscando quais a
 ---  
 ### Aula 2 - Buscando e analisando dados
 
-Na primeira parte, vamos à caça e procurar de onde vêm os dados que dão origem às reportagens. Falaremos também sobre o canivete suíço dos jornalistas de dados brasileiro: portais da transparência, IBGE e LAI.
+Na primeira parte, vamos à caça dos dados e entender de onde vêm os dados que dão origem às reportagens. Falaremos também sobre o canivete suíço do jornalista de dados brasileiro: portais da transparência, IBGE e LAI.
  
-Na segunda parte, vamos analisar alguns dados sozinhos, utilizando Google Sheets. Também teremos o nosso exercício, que desta vez terá como desafio pensar na nossa primeira reportagem de jornalismo de dados.
+Na segunda parte, vamos analisar alguns dados utilizando o Google Sheets. Também teremos o nosso exercício, que desta vez terá como desafio pensar na nossa primeira reportagem de jornalismo de dados.
  
 📚 <a href="https://docs.google.com/presentation/d/17BQtamlEnyXg9A6ZJ7dOpDCjAKdoJvx8/edit?usp=sharing&ouid=104141213015748155256&rtpof=true&sd=true">**Segunda aula**</a>
 
