@@ -25,7 +25,16 @@ Na segunda parte, faremos o exercício da “fonte reversa” e buscando quais a
 📚 <a href="https://docs.google.com/presentation/d/1f2Sfq1WHX9k-iYFImTvU2sUZ_Kv--I3V/edit?usp=sharing&ouid=104141213015748155256&rtpof=true&sd=true">**Primeira aula**</a>
  
 ---  
+### Aula 2 - Buscando e analisando dados
+
+Na primeira parte, vamos à caça e procurar de onde vêm os dados que dão origem às reportagens. Falaremos também sobre o canivete suíço dos jornalistas de dados brasileiro: portais da transparência, IBGE e LAI.
  
+Na segunda parte, vamos analisar alguns dados sozinhos, utilizando Google Sheets. Também teremos o nosso exercício, que desta vez terá como desafio pensar na nossa primeira reportagem de jornalismo de dados.
+ 
+📚 <a href="https://docs.google.com/presentation/d/17BQtamlEnyXg9A6ZJ7dOpDCjAKdoJvx8/edit?usp=sharing&ouid=104141213015748155256&rtpof=true&sd=true">**Segunda aula**</a>
+
+---
+
 ### Referências:
  
 Nesta seção, além de textos importantes na área, deixarei alguns nomes de veículos que vêm elaborando reportagens utilizando o jornalismo de dados.
@@ -36,6 +45,7 @@ Nesta seção, além de textos importantes na área, deixarei alguns nomes de ve
 - GRANDIN, F.R., 2014. A contribuição do jornalismo guiado por dados na criação de valor nas organizações jornalísticas. Universidade do Estado do Rio de Janeiro, Rio de Janeiro.
 - GRAY, Jonathan et al. Manual de jornalismo de dados. Novembro, 2021. Disponível em: http://datajournalismcom.s3.eu-central-1.amazonaws.com/handbooks/The-Data-Journalism-Handbook-2_PT.pdf
 - MANCINI, L., Vasconcellos, F., 2016. Jornalismo de Dados: conceito e categorias. Front. - Estud. Midiáticos 18. https://doi.org/10.4013/fem.2016.181.07
+- MENEGAT, R,, 2019. Jornalismo Guiado por Dados 1. Disponível em: https://t.co/PSRqklNUb2
 - ROGERS, S., 2010. Florence Nightingale, datajournalist: information has always been beautiful. Datablog.
 - ROGERS, S., 2013a. History of data journalism at the Guardian [WWW Document]. The Guardian. URL https://www.theguardian.com/news/datablog/video/2013/apr/04/history-of-data-journalism-video
 - TRÄSEL, M., 2013. O jornalismo guiado por dados numa perspectiva brasileira, in: Gray, J., Bounegru, L., Chambers, L. (Eds.), Manual de Jornalismo de Dados: Como Os Jornalistas Podem Usar Dados Para Melhorar Suas Reportagens. Abraji/EJC, São Paulo.
