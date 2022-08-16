@@ -34,7 +34,13 @@ Na segunda parte, vamos analisar alguns dados utilizando o Google Sheets. També
 📚 <a href="https://docs.google.com/presentation/d/17BQtamlEnyXg9A6ZJ7dOpDCjAKdoJvx8/edit?usp=sharing&ouid=104141213015748155256&rtpof=true&sd=true">**Segunda aula**</a>
 
 ---
+### Aula 3 - Entendendo e fazendo gráficos
 
+Vamos entender como as visualizações auxiliam na narrativa do jornalista de dados. Também vamos aprender como "trapacear" com gráficos e como a escolha da visualização é essencial para os dados que temos na mão. Na segunda parte, faremos um exercício prático, pensando em uma das vários opções de gráficos oferecidos pelo Flourish, plataforma muito utilizada em redações.
+ 
+📚 <a href="https://docs.google.com/presentation/d/1z0WiV0QlQHmv6Ks3VksSCsCvh42U9OZo/edit?usp=sharing&ouid=104141213015748155256&rtpof=true&sd=true">**Terceira aula**</a>
+
+---
 ### Referências:
  
 Nesta seção, além de textos importantes na área, deixarei alguns nomes de veículos que vêm elaborando reportagens utilizando o jornalismo de dados.
