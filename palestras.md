@@ -5,7 +5,7 @@ subtitle: Palestras e keynotes que já apresentei
 ---
 
 ### 2022
-<a href="https://escoladedados.org/coda/coda2022/acessando-os-dados-da-cidade-maravilhosa-com-sql/">**CODABR**</a>  
+<a href="https://escoladedados.org/coda/coda2022/acessando-os-dados-da-cidade-maravilhosa-com-sql/">**CODA**</a>  
 (Palestrante)
 
 ### 2021
