@@ -3,6 +3,18 @@ layout: page
 title: Reportagens
 subtitle: Confira alguns dos meus trabalhos mais importantes
 ---
+### PREFEITURA DO RIO DE JANEIRO
+
+ÁLBUM DA COPA DO MUNDO CARIOCA
+Um especial que coletou e analisou todos os jogadores cariocas que foram convocados para participar de alguma Copa do Mundo desde a criação do torneio.
+
+<a href="https://www.dados.rio/especiais/copa-do-mundo-carioca">**Leia a matéria.**</a> 
+
+MAIS DE 1.300 CONSTRUÇÕES IRREGULARES A MENOS NO RIO DE JANEIRO
+Este especial mostra como as demolições de construções irregulares na cidade foram capazes de gerar prejuízos para o crime organizado e salvar vidas.
+
+<a href="https://viz.dados.rio/#/especial-seop/demolicoes">**Leia a matéria.**</a> 
+
 ### METRÓPOLES
 
 BRASIL TEM MAIOR Nº DE DIVÓRCIOS DESDE 2015. VEJA ONDE MAIS SE SEPARA (6.abr.2022)  
