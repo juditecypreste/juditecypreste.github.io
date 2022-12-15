@@ -7,7 +7,9 @@ subtitle:
 <span style="float: right; "><a href="{{ '/assets/curriculo.pdf' | prepend: site.baseurl }}"><strong>> Meu currículo</strong></a> </span>
 <br>
 
-Acredito que um bom jornalista de dados entrega mais do que tabelas e números percentuais incompreensíveis. Por isso, produzo reportagens usando programação e ferramentas de raspagem e análise de dados. Atualmente sou jornalista de dados no <a href="https://www.dados.rio/">Escritório de Dados</a> da <a href="https://prefeitura.rio/">Prefeitura do Rio de Janeiro</a>, onde busco entender e falar sobre a cidade por meio dos dados, fortificando a cultura de dados abertos na cidade.
+Acredito que um bom jornalista de dados entrega mais do que tabelas e números percentuais incompreensíveis. Por isso, produzo reportagens usando programação e ferramentas de raspagem e análise de dados. 
+
+Atualmente sou jornalista de dados no <a href="https://www.dados.rio/">Escritório de Dados</a> da <a href="https://prefeitura.rio/">Prefeitura do Rio de Janeiro</a>, onde busco entender e falar sobre a cidade por meio dos dados, fortificando a cultura de dados abertos na cidade. Além disso, ajudo a pensar em alternativas e projetos de dados abertos e automatização na Prefeitura.
 
 Sou fundadora e diretora do primeiro veículo brasileiro sobre transparência e dados abertos no Brasil, o 
 <a href="https://colaboradados.com.br/">Colaboradados</a>. Uma plataforma que, por meio da programação e diversas ferramentas, propõe-se a discutir sobre dados públicos e sua importância na sociedade. O projeto foi reconhecido como caso de sucesso pela plataforma GitHub (2019) e reconhecido Internacionalmente no <a href="https://datajournalism.com/awards">Sigma Awards</a>, o maior prêmio de jornalismo de dados do mundo. Também fui apresentadora no <a href="http://colaboradados.com.br/podcast.html">Coluna7</a>, o podcast brasileiro sobre jornalismo de dados.
@@ -20,7 +22,7 @@ Também atuei como repórter e checadora do <a href="https://aosfatos.org/">Aos 
 
 No <a href="https://busca.uol.com.br/result.html?term=judite%20cypreste#gsc.tab=0&gsc.q=judite%20cypreste&gsc.page=1">UOL</a>, além de produzir reportagens reconhecidas internacionalmente, ajudei colegas de trabalho a entenderem mais sobre o jornalismo e o uso de dados.
 
-Também fui produtora na GloboNews, onde elaborei reportagens com base em dados públicos. 
+Também fui produtora na *GloboNews*, onde elaborei reportagens com base em dados públicos. 
 
 No <a href="https://www.metropoles.com/author/judite-cypreste">Metrópoles</a>, realizei a cobertura política e dados no portal, com reportagens que ganharam prêmios e destaque no debate público.   
 
@@ -35,7 +37,7 @@ Graduação em Comunicação Social: Jornalismo
 UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO (UERJ) <span style="float: right; ">2018</span>  
 Pós Graduação em Jornalismo Cultural  
 
-PONTÍFICIA UNIVERSIDADE CATÓLICA DO RIO DEJANEIRO (PUC-RIO) <span style="float: right; ">2016</span>  
+PONTÍFICIA UNIVERSIDADE CATÓLICA DO RIO DE JANEIRO (PUC-RIO) <span style="float: right; ">2016</span>  
 Graduação em Letras (Licenciatura Brasileira)
 
 ### PRÊMIOS E RECONHECIMENTOS
