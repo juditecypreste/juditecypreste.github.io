@@ -3,7 +3,15 @@ layout: page
 title: Palestras
 subtitle: Palestras e keynotes que já apresentei
 ---
+
+### 2022
+<a href="https://escoladedados.org/coda/coda2022/acessando-os-dados-da-cidade-maravilhosa-com-sql/">**CODABR**</a>  
+(Palestrante)
+
 ### 2021
+<a href="https://sciencejf.com/slots/availability-and-confidence-in-data-during-a-pandemic/">**SCIENCE JOURNALISM FORUM**</a>  
+(Palestrante)
+
 <a href="https://www.youtube.com/watch?v=NTcTfOcaD44">**PYTHON BRASIL[2021]**</a>  
 (Palestrante)
 
