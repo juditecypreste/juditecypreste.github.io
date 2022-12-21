@@ -2,7 +2,7 @@
 layout: page
 title:  "O tutorial mais fácil do mundo para baixar tweets"
 date:   2020-04-07 21:21:21 
-categories: ["python"]
+categories: ["tutorial"]
 ---
 Nesse tutorial, você vai aprender a raspar tuítes de um usuário da forma **mais fácil do mundo**. Sim, da forma **mais fácil do mundo**. 
 
@@ -45,3 +45,5 @@ E aí, a mágica acontece e você verá seu computador trabalhando para baixar o
 Agora, é só abrir o csv baixado e conferir os dados. 
 
 Fim✨
+
+(Clique <a href="https://github.com/juditecypreste/tutorial_mais_facil_do_mundo_para_raspar_tweets">aqui</a> para ver este tutorial no Github e o resultado)

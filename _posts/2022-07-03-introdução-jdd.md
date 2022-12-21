@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Jornalismo de dados"
+title:  "Jornalismo de dados para universitários"
 date:   2022-07-02 21:21:21 
 categories: ["jornalismo de dados"]
 ---
