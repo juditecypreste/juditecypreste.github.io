@@ -58,6 +58,13 @@ Levantamento feito com todas as UFs mostrou que, mesmo entre os grupos prioritá
 
 <a href="https://www.metropoles.com/brasil/brasil-tem-762-mil-policiais-e-bombeiros-ainda-sem-nenhuma-dose-da-vacina">**Leia a matéria.**</a>
 
+ALESP TEM ALTA DE 17,8% EM GASTOS COM LOCAÇÃO DE CARROS NO 1º SEMESTRE (25.ago.2021)  
+Mesmo com a maioria das atividades parlamentares ocorrendo de forma on-line, os custos com locação de carros pelos deputados da Alesp aumentaram. Análise ainda mostra como a maior fornecedora é ligada a ex-parlamentares da Casa.
+
+<a href="https://www.metropoles.com/brasil/alesp-tem-alta-de-178-em-gastos-com-locacao-de-carros-no-1o-semestre">**Leia a matéria.**</a>  
+<a href="https://github.com/juditecypreste/as-vitimas-do-coronavirus">**Leia a análise de dados.**</a>
+
+
 REGISTROS MOSTRAM 400 FILHAS PENSIONISTAS DE MILITARES COMO SÓCIAS DE EMPRESAS MILIONÁRIAS (19.jul.2021)  
 Um grande cruzamento de dados mostrou como filhas beneficiarias de pensões militares recebem o benefício sendo sócias de empresas milionárias.
 
