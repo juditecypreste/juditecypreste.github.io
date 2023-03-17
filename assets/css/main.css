@@ -42,7 +42,7 @@
       font-weight: 400; }
 
   strong {
-    color: #ffa006; }
+    color: #ff0a66; }
 
   .wrapper {
     max-width: 800px;
@@ -144,7 +144,7 @@
     line-height: 30px;  }
 
   .about__devider {
-    color: #ffa006;
+    color: #ff0a66;
     font-size: 100%;}
 
   .about__text {
@@ -187,7 +187,7 @@
       width: 100%; 
     }
   #describe-professional {
-      color: #ffa006;
+      color: #ff0a66;
       text-align: center;
       font-size: 100%;}
 
