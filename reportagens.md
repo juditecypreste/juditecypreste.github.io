@@ -1,161 +1,166 @@
 ---
 layout: page
-title: Reportagens
-subtitle: Confira alguns dos meus trabalhos mais importantes
+title: Stories
+subtitle: Some of the stories I've written, investigated, or produced
 ---
 ### PREFEITURA DO RIO DE JANEIRO
 
-ÁLBUM DA COPA DO MUNDO CARIOCA
-Um especial que coletou e analisou todos os jogadores cariocas que foram convocados para participar de alguma Copa do Mundo desde a criação do torneio.
+G20: RIO, WORLD CAPITAL  
+This special feature was published on the official website of the G20, the primary forum for international economic cooperation. This special is an invitation to travel back in time and discover why the city of Rio de Janeiro has always had the potential to be the world's capital. The same title of this special was used as a slogan and promoted at tourist spots around the city.  
+<a href="https://prefeitura-rio.github.io/G20Dataviz/"><strong>Read the article.</strong></a>
 
-<a href="https://www.dados.rio/especiais/copa-do-mundo-carioca">**Leia a matéria.**</a> 
+<br>
+GREAT WORKS IN THE CITY OF RIO DE JANEIRO  
+This special report explores the city, revealing the locations of the major investments benefiting the population.  
+<a href="https://viz.dados.rio/#/obras"><strong>Read the article.</strong></a>
 
-MAIS DE 1.300 CONSTRUÇÕES IRREGULARES A MENOS NO RIO DE JANEIRO
-Este especial mostra como as demolições de construções irregulares na cidade foram capazes de gerar prejuízos para o crime organizado e salvar vidas.
+<br>
+RIO DE JANEIRO WORLD CUP ALBUM  
+A special feature that collected and analyzed all the Rio de Janeiro players who were called up to participate in some World Cup since the tournament's creation.  
+<a href="https://www.dados.rio/especiais/copa-do-mundo-carioca"><strong>Read the article.</strong></a>
 
-<a href="https://viz.dados.rio/#/especial-seop/demolicoes">**Leia a matéria.**</a> 
+<br>
+OVER 1,300 IRREGULAR CONSTRUCTIONS REMOVED IN RIO DE JANEIRO  
+This special report shows how the demolitions of irregular constructions in the city were able to cause losses for organized crime and save lives.  
+<a href="https://viz.dados.rio/#/especial-seop/demolicoes"><strong>Read the article.</strong></a>
 
+<br>
 ### METRÓPOLES
+BRAZIL HAS THE HIGHEST NUMBER OF DIVORCES SINCE 2015. SEE WHERE THEY MOSTLY OCCUR (Apr 6, 2022)  
+A study tried to understand how the pandemic impacted marriages in the country during the pandemic.  
+<a href="https://www.metropoles.com/brasil/brasil-tem-maior-no-de-divorcios-desde-2015-veja-onde-mais-se-separa"><strong>Read the article.</strong></a>
 
-BRASIL TEM MAIOR Nº DE DIVÓRCIOS DESDE 2015. VEJA ONDE MAIS SE SEPARA (6.abr.2022)  
-Levantamento tentou entender como a pandemia impactou os matrimônios no país durante a pandemia.
+<br>
+COVID: RICH COUNTRIES HAVE 10 TIMES HIGHER VACCINATION RATES THAN POOR COUNTRIES (Dec 21, 2021)  
+The study was based on data from the World Bank about the GDP of nations and the number of fully vaccinated people provided by Our World in Data.  
+<a href="https://www.metropoles.com/brasil/covid-paises-ricos-tem-media-de-imunizados-10-vezes-maior-que-pobres"><strong>Read the article.</strong></a>
 
-<a href="https://www.metropoles.com/brasil/brasil-tem-maior-no-de-divorcios-desde-2015-veja-onde-mais-se-separa">**Leia a matéria.**</a> 
+<br>
+ONE WEEK AFTER THE ATTACK, BRAZIL LIVES THROUGH A DATA BLACKOUT ON COVID (Dec 17, 2021)  
+Analysis with experts showed how the data blackout on the disease led to chaos in tracking the pandemic in the country.  
+<a href="https://www.metropoles.com/brasil/uma-semana-depois-de-ataque-brasil-vive-apagao-de-dados-sobre-a-covid"><strong>Read the article.</strong></a>
 
-COVID: PAÍSES RICOS TÊM MÉDIA DE IMUNIZADOS 10 VEZES MAIOR QUE POBRES (21.dez.2021)  
-O levantamento foi feito a partir do cruzamento de dados tabulados pelo Banco Mundial sobre os PIBs das nações e do número de pessoas completamente imunizadas disponibilizado pelo Our World in Data.
+<br>
+BOLSONARO GOVERNMENT SENT FUNERAL FLOWERS TO ONLY ONE PERSON SINCE 2019 (Dec 12, 2021)  
+A review of Palace of Planalto's contracts showed that since taking office, President Jair Bolsonaro has only sent funeral wreaths to the funeral of former ally Arolde de Oliveira, a victim of Covid-19.  
+<a href="https://www.metropoles.com/brasil/planalto-compra-coroas-funebres-mas-nao-divulga-a-quem-homenageou"><strong>Read the article.</strong></a>
 
-<a href="https://www.metropoles.com/brasil/covid-paises-ricos-tem-media-de-imunizados-10-vezes-maior-que-pobres">**Leia a matéria.**</a> 
+<br>
+CORPORATE CARD: PLANALTO IGNORES SUPREME COURT, AND 98% OF EXPENSES REMAIN CONFIDENTIAL (Oct 30, 2021)  
+Even after a Supreme Court decision on transparency of expenses with the Federal Government Payment Card, the government still keeps most of the expenses secret.  
+<a href="https://www.metropoles.com/brasil/cartao-corporativo-planalto-ignora-stf-e-98-do-gasto-segue-sigiloso"><strong>Read the article.</strong></a>
 
-UMA SEMANA DEPOIS DE ATAQUE, BRASIL VIVE APAGÃO DE DADOS SOBRE A COVID (17.dez.2021)  
-Análise com especialistas mostrou como o apagão de dados sobre a doença levou o rastreio da pandemia ao caos no país.
+<br>
+AMID THE PANDEMIC, GOVERNMENT SPONSORED 252 MEALS AT STEAKHOUSES (Oct 26, 2021)  
+Using government open data on payments made with the Federal Government Payment Card, I found all the establishments that served the delicacy to public servants during the Covid-19 pandemic.  
+<a href="https://www.metropoles.com/brasil/em-meio-a-pandemia-governo-bancou-252-refeicoes-em-churrascarias"><strong>Read the article.</strong></a>  
+<a href="https://github.com/juditecypreste/churrasco_pandemia"><strong>Read the data analysis.</strong></a>
 
-<a href="https://www.metropoles.com/brasil/uma-semana-depois-de-ataque-brasil-vive-apagao-de-dados-sobre-a-covid">**Leia a matéria.**</a>  
+<br>
+BRAZIL HAS 3,775 PUBLIC STREETS HONORING MILITARY DICTATORSHIP LEADERS AND TORTURERS (Oct 15, 2021)  
+In 3,775 public streets in the country, individuals who are on the list of torturers and those responsible for crimes committed during the military dictatorship are honored.  
+<a href="https://www.metropoles.com/brasil/brasil-tem-3-775-vias-publicas-que-homenageiam-lideres-e-torturadores-da-ditadura-militar"><strong>Read the article.</strong></a>
 
-GOVERNO BOLSONARO SÓ ENVIOU FLORES FÚNEBRES A UMA PESSOA DESDE 2019 (12.dez.2021)  
-Levantamento das licitações do Palácio do Planaltou mostrou que, desde que tomou posse, o presidente Jair Bolsonaro somente enviou coroas de flores para o velório do ex-aliado Arolde de Oliveira, vítima da Covid-19  
+<br>
+BRAZIL HAS 76,200 POLICE OFFICERS AND FIREFIGHTERS YET TO RECEIVE ANY COVID VACCINE DOSES (Oct 6, 2021)  
+A survey conducted with all states showed that, even among priority groups, the country's security forces remain unvaccinated.  
+<a href="https://www.metropoles.com/brasil/brasil-tem-762-mil-policiais-e-bombeiros-ainda-sem-nenhuma-dose-da-vacina"><strong>Read the article.</strong></a>
 
-<a href="https://www.metropoles.com/brasil/planalto-compra-coroas-funebres-mas-nao-divulga-a-quem-homenageou">**Leia a matéria.**</a> 
+<br>
+SAO PAULO STATE LEGISLATIVE ASSEMBLY (ALESP) HAS A 17.8% INCREASE IN CAR RENTAL EXPENSES IN THE FIRST SEMESTER (Aug 25, 2021)  
+Even with most parliamentary activities taking place online, car rental costs for Alesp deputies increased. The analysis also shows that the main provider is connected to former parliamentary members of the House.  
+<a href="https://www.metropoles.com/brasil/alesp-tem-alta-de-178-em-gastos-com-locacao-de-carros-no-1o-semestre"><strong>Read the article.</strong></a>  
+<a href="https://github.com/juditecypreste/as-vitimas-do-coronavirus"><strong>Read the data analysis.</strong></a>
 
-CARTÃO CORPORATIVO: PLANALTO IGNORA STF E 98% DO GASTO SEGUE SIGILOSO (30.out.2021)  
-Mesmo após uma decisão do Supremo para transparência das despesas com Cartão de Pagamento do Governo Federal, governo mantém maioria das despesas em segredo.]
+<br>
+RECORDS SHOW 400 MILITARY PENSIONERS' DAUGHTERS AS SHAREHOLDERS IN MILLIONAIRE COMPANIES (Jul 19, 2021)  
+A large data cross-referencing revealed how daughters who benefited from military pensions received the benefit as shareholders in millionaire companies.  
+<a href="https://www.metropoles.com/brasil/registros-mostram-400-filhas-pensionistas-de-militares-como-socias-de-empresas-milionarias"><strong>Read the article.</strong></a>
 
-<a href="https://www.metropoles.com/brasil/cartao-corporativo-planalto-ignora-stf-e-98-do-gasto-segue-sigiloso">**Leia a matéria.**</a>  
+<br>
+PORTEIRÃO, IN THE "HEART" OF AGRICULTURE IN GO, LEADS COVID INFECTION IN THE COUNTRY (Jun 5, 2021)  
+Through data analysis of the pandemic, we discovered the city with the highest number of people infected with the disease in the entire country.  
+<a href="https://www.metropoles.com/brasil/porteirao-no-coracao-do-agro-em-go-lidera-infeccao-por-covid-no-pais"><strong>Read the article.</strong></a>
 
-EM MEIO À PANDEMIA, GOVERNO BANCOU 252 REFEIÇÕES EM CHURRASCARIAS (26.out.2021)  
-Utilizando os dados abertos governamentais dos pagamentos realizados com o Cartão de Pagamento do Governo Federal, encontrei todos os estebelecimentos que serviram a iguaria para os servidores em plena pandemia da Covid-19.
-
-<a href="https://www.metropoles.com/brasil/em-meio-a-pandemia-governo-bancou-252-refeicoes-em-churrascarias">**Leia a matéria.**</a>
-<a href="https://github.com/juditecypreste/churrasco_pandemia">**Leia a análise de dados.**</a>  
-
-BRASIL TEM 3.775 VIAS PÚBLICAS QUE HOMENAGEIAM LÍDERES E TORTURADORES DA DITADURA MILITAR (15.out.2021)  
-Em 3.775 vias públicas do país, indivíduos que estão na lista de torturadores e responsáveis por crimes cometidos durante a ditadura militar são homenageados.
-
-<a href="https://www.metropoles.com/brasil/brasil-tem-3-775-vias-publicas-que-homenageiam-lideres-e-torturadores-da-ditadura-militar">**Leia a matéria.**</a> 
-
-BRASIL TEM 76,2 MIL POLICIAIS E BOMBEIROS AINDA SEM NENHUMA DOSE DA VACINA (6.out.2021)  
-Levantamento feito com todas as UFs mostrou que, mesmo entre os grupos prioritários, forças de segurança do país não se vacinaram.
-
-<a href="https://www.metropoles.com/brasil/brasil-tem-762-mil-policiais-e-bombeiros-ainda-sem-nenhuma-dose-da-vacina">**Leia a matéria.**</a>
-
-ALESP TEM ALTA DE 17,8% EM GASTOS COM LOCAÇÃO DE CARROS NO 1º SEMESTRE (25.ago.2021)  
-Mesmo com a maioria das atividades parlamentares ocorrendo de forma on-line, os custos com locação de carros pelos deputados da Alesp aumentaram. Análise ainda mostra como a maior fornecedora é ligada a ex-parlamentares da Casa.
-
-<a href="https://www.metropoles.com/brasil/alesp-tem-alta-de-178-em-gastos-com-locacao-de-carros-no-1o-semestre">**Leia a matéria.**</a>  
-<a href="https://github.com/juditecypreste/as-vitimas-do-coronavirus">**Leia a análise de dados.**</a>
-
-
-REGISTROS MOSTRAM 400 FILHAS PENSIONISTAS DE MILITARES COMO SÓCIAS DE EMPRESAS MILIONÁRIAS (19.jul.2021)  
-Um grande cruzamento de dados mostrou como filhas beneficiarias de pensões militares recebem o benefício sendo sócias de empresas milionárias.
-
-<a href="https://www.metropoles.com/brasil/registros-mostram-400-filhas-pensionistas-de-militares-como-socias-de-empresas-milionarias">**Leia a matéria.**</a>
-
-PORTEIRÃO, NO “CORAÇÃO” DO AGRO EM GO, LIDERA INFECÇÃO POR COVID NO PAÍS (5.jun.2021)  
-Por meio da análise de dados sobre a pandemia, descobrimos a cidade com mais pessoas contaminadas prla doença em todo o país.
-
-<a href="https://www.metropoles.com/brasil/porteirao-no-coracao-do-agro-em-go-lidera-infeccao-por-covid-no-pais">**Leia a matéria.**</a>  
-
-  
+<br>
 ### GLOBONEWS
-CASOS DE COVID-19 ENTRE GRÁVIDAS AUMENTAM 345% NO BRASIL, INDICA LEVANTAMENTO (22.nov.2020)  
-Levantamento feito com dados coletados nas secretarias estaduais de Saúde dos 26 estados e no Distrito Federal mostrou grande defasagem do Ministério da Saúde com relação ao total de gestantes que foram contaminadas no país com a doença.
+COVID-19 CASES AMONG PREGNANT WOMEN INCREASE 345% IN BRAZIL, ACCORDING TO SURVEY (Nov 22, 2020)  
+A survey conducted with data collected from the state health departments of the 26 states and the Federal District showed a significant gap between the Ministry of Health and the total number of pregnant women infected with the disease.  
+<a href="https://g1.globo.com/sp/sao-paulo/noticia/2020/11/22/casos-de-covid-19-entre-gravidas-aumenta-345percent-no-brasil-indica-levantamento.ghtml"><strong>Read and watch the report.</strong></a>
 
-<a href="https://g1.globo.com/sp/sao-paulo/noticia/2020/11/22/casos-de-covid-19-entre-gravidas-aumenta-345percent-no-brasil-indica-levantamento.ghtml">**Leia e assista a reportagem.**</a> 
+<br>
+OVERCROWDED PRISON IN WESTERN SAO PAULO HAS 47% OF DETAINEES INFECTED WITH CORONAVIRUS, DEFENSE POINTS OUT (Aug 12, 2020)  
+Data obtained from the Public Defender's Office revealed the overcrowding and infection situation in prisons in São Paulo.  
+<a href="https://g1.globo.com/sp/sao-paulo/noticia/2020/08/12/presidio-superlotado-na-zona-oeste-de-sp-tem-47percent-dos-detentos-contaminados-por-coronavirus-diz-defensoria.ghtml"><strong>Read and watch the report.</strong></a>
 
-PRESÍDIO SUPERLOTADO NA ZONA OESTE DE SP TEM 47% DOS DETENTOS CONTAMINADOS POR CORONAVÍRUS, APONTA DEFENSORIA (12.ago.2020)  
-Dados obtidos com a Defensoria Pública mostraram a situação de superlotamento e contaminação no cárcere em São Paulo. 
+<br>
+SAO PAULO STATE RECORDS A 33% DROP IN ORGAN DONATIONS IN JUNE AFTER CORONAVIRUS ADVANCEMENT (Jun 19, 2020)  
+A report with exclusive data showed the problem of organ donation during the pandemic in the state of São Paulo.  
+<a href="https://g1.globo.com/sp/sao-paulo/noticia/2020/06/19/estado-de-sp-tem-queda-de-33percent-na-doacao-de-orgaos-em-junho.ghtml"><strong>Read and watch the report.</strong></a>
 
-<a href="https://g1.globo.com/sp/sao-paulo/noticia/2020/08/12/presidio-superlotado-na-zona-oeste-de-sp-tem-47percent-dos-detentos-contaminados-por-coronavirus-diz-defensoria.ghtml">**Leia e assista a reportagem.**</a> 
+<br>
+COVID-19 SPREADS TO INTERIOR CITIES, MAKING SIX COUNTRIES REGISTER MORE DEATHS IN SMALLER TOWNS (Jun 15, 2020)  
+An exclusive analysis with data from the Brazilian Institute of Geography and Statistics (IBGE) and the collaborative platform Brazil.io showed that at least six states in the country recorded more deaths in smaller cities away from major urban centers.  
+<a href="https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/15/interiorizacao-da-covid-19-faz-seis-estados-do-pais-registrarem-mais-mortes-em-cidades-interioranas.ghtml"><strong>Read and watch the report.</strong></a>
 
-ESTADO DE SP REGISTRA QUEDA DE 33% NA DOAÇÃO DE ÓRGÃOS EM JUNHO APÓS AVANÇO DO CORONAVÍRUS (19.jun.2020)  
-Reportagem com dados exclusivos mostrou o problema da doação de órgãos durante a pandemia no Estado de São Paulo.  
+<br>
+### UOL
+UNDERESTIMATED NUMBERS. COVID-19 DOESN'T CHOOSE VICTIMS: IT TOOK THE YOUNG, THE OLD, THE HEALTHY, AND THE SICK. OFFICIAL DATA CAN'T CAPTURE THE TRAGEDY (Apr 30, 2020)  
+The faces behind the death numbers caused by the coronavirus in the country.  
+<a href="https://noticias.uol.com.br/reportagens-especiais/as-vitimas-do-coronavirus/index.htm"><strong>Read the article.</strong></a>  
+<a href="https://github.com/juditecypreste/as-vitimas-do-coronavirus"><strong>Read the data analysis.</strong></a>
 
-<a href="https://g1.globo.com/sp/sao-paulo/noticia/2020/06/19/estado-de-sp-tem-queda-de-33percent-na-doacao-de-orgaos-em-junho.ghtml">**Leia e assista a reportagem.**</a> 
+<br>
+THE EVOLUTION OF THE NEW CORONAVIRUS IN BRAZIL (Apr 16, 2020)  
+A report analyzed data and created a timeline of the virus's spread through Brazilian cities.  
+<a href="https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/04/16/coronavirus-avanca-para-o-interior-do-brasil-veja-evolucao-em-mapa.htm"><strong>Read the article.</strong></a>  
+<a href="https://github.com/juditecypreste/linha-do-tempo-cidades-infectadas-com-coronavirus-no-Brasil"><strong>Read the data analysis.</strong></a>
 
-INTERIORIZAÇÃO DA COVID-19 FAZ SEIS ESTADOS DO PAÍS REGISTRAREM MAIS MORTES EM CIDADES INTERIORANAS (15.jun.2020)  
-Análise exclusiva, com dados do IBGE e da plataforma colaborativa Brasil.io, mostrou que pelo menos seis estados do país registravam mais mortes em cidades afastadas dos grandes centros urbanos.  
+<br>
+TWITTER KEEPS SEXUAL OFFENSES ON THE SOCIAL MEDIA IN THE CASE OF PATRÍCIA CAMPOS MELLO (Mar 12, 2020)  
+An analysis of tweets found that a month after a wave of online attacks on journalist Patrícia Campos Mello of "Folha de S.Paulo," motivated by a witness's testimony at the Fake News CPI in Congress, it was still possible to access sexist messages and insults to the reporter on Twitter.  
+<a href="https://noticias.uol.com.br/politica/ultimas-noticias/2020/03/12/patricia-campos-mello-ataques-twitter.htm"><strong>Read the article.</strong></a>  
+<a href="https://github.com/juditecypreste/analise-tweets-contra-jornalista-patricia-campos-mello"><strong>Read the data analysis.</strong></a>
 
-<a href="https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/15/interiorizacao-da-covid-19-faz-seis-estados-do-pais-registrarem-mais-mortes-em-cidades-interioranas.ghtml">**Leia e assista a reportagem.**</a> 
+<br>
+THEIR OSCAR: UOL ANALYZED BEST PICTURE, ACTOR, AND ACTRESS WINNERS; MEN TAKE THE LEAD AND HAVE MORE DIVERSE ROLES (Feb 9, 2020)  
+Over several weeks, the UOL report took on the task of analyzing the winners of 91 Oscar editions in the categories of Best Picture, Best Actor, and Best Actress, in order to identify the protagonists of the winning films and the type of roles that earned men and women the most coveted awards in cinema. The result, supported by data, reveals the gender disparity in the most prestigious film awards.  
+<a href="https://entretenimento.uol.com.br/reportagens-especiais/apos-91-edicoes-o-oscar-ainda-e-um-clube-do-bolinha/index.htm#tematico-1"><strong>Read the article.</strong></a>  
+<a href="https://github.com/juditecypreste/Scraper-Oscar"><strong>Read the data analysis.</strong></a>
 
-### UOL  
+<br>
+FAKE NEWS NETWORK WITH PRO-BOLSONARO BOTS MAINTAINS 80% OF ACTIVE ACCOUNTS (Sep 19, 2019)  
+Analysis shows that 1,355 phone lines that were part of a pro-Bolsonaro disinformation network during the 2018 elections were still active and spreading misinformation via the WhatsApp application.  
+<a href="https://noticias.uol.com.br/politica/ultimas-noticias/2019/09/19/fake-news-pro-bolsonaro-whatsapp-eleicoes-robos-disparo-em-massa.htm"><strong>Read the article.</strong></a>
 
-NÚMEROS SUBESTIMADOS. COVID-19 NÃO ESCOLHE VÍTIMA: LEVOU JOVEM, IDOSO, SAUDÁVEL E DOENTE. DADOS OFICIAIS NÃO DÃO CONTA DA TRAGÉDIA (30.abr.2020)  
-Os rostos por trás dos números dos óbitos provocados pelo coronavírus no país.  
+<br>
+PROSECUTED FOR ABORTION: WOMEN ARE REPORTED BY DOCTORS AND FAMILY MEMBERS (Sep 13, 2019)  
+Exclusive data obtained from the National Warrant Database shows cases of women facing criminal charges for having an abortion.  
+<a href="https://www.uol.com.br/universa/noticias/redacao/2019/09/13/prisoes-e-muito-dinheiro-do-sus-as-historias-reveladas-do-aborto-no-pais.htm"><strong>Read the article.</strong></a>
 
-<a href="https://noticias.uol.com.br/reportagens-especiais/as-vitimas-do-coronavirus/index.htm">**Leia a matéria.**</a>  
-<a href="https://github.com/juditecypreste/as-vitimas-do-coronavirus">**Leia a análise de dados.**</a>  
- 
-A EVOLUÇÃO DO NOVO CORONAVÍRUS NO BRASIL (16.abr.2020)  
-Reportagem analisou dados e preparou uma linha do tempo da disseminação do vírus pelas cidades brasileiras.
+<br>
+### AOS FATOS
+REPORTS OF LACK OF FUNDING AND ABANDONMENT OF THE NATIONAL MUSEUM DATE BACK TO THE 1950s (Sep 3, 2018)  
+The article identified records of fire risk warnings at the National Museum since the 1970s. Complaints about budget cuts and inadequate maintenance date back even further to the 1950s, according to the survey conducted.  
+<a href="https://www.aosfatos.org/noticias/relatos-de-falta-de-verba-e-abandono-do-museu-nacional-remontam-decada-de-1950/"><strong>Read the article.</strong></a>
 
-<a href="https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/04/16/coronavirus-avanca-para-o-interior-do-brasil-veja-evolucao-em-mapa.htm">**Leia a matéria.**</a>  
-<a href="https://github.com/juditecypreste/linha-do-tempo-cidades-infectadas-com-coronavirus-no-Brasil">**Leia a análise de dados.**</a>  
+<br>
+CITIES HOSTING THE 2014 WORLD CUP STILL HAVE UNFINISHED WORKS AND TRANSPARENCY ISSUES (Jul 16, 2018)  
+A series of reports on the promised works for the 2014 World Cup in Brazil revealed significant gaps in the projects promised for the event by the public administration. Furthermore, the CGU (Comptroller General of the Union), responsible for maintaining and providing information about the works, removed the information from public view after the series began, showing a lack of compliance with the Access to Information Law.  
+<a href="https://www.aosfatos.org/noticias/cidades-sede-da-copa-de-2014-ainda-tem-obras-por-fazer-e-problemas-de-transparencia/"><strong>Read the full series.</strong></a>
 
-TWITTER MANTÉM OFENSAS SEXUAIS NA REDE SOCIAL NO CASO PATRÍCIA CAMPOS MELLO (12.mar.2020)  
-Uma análise de tweets constatou: um mês após a onda de ataques virtuais à jornalista Patrícia Campos Mello, da “Folha de S.Paulo”, motivados por um depoimento de testemunha na CPI das Fake News no Congresso, ainda era possível acessar mensagens sexistas e com insultos à repórter no Twitter.
+<br>
+### FOLHA DE S. PAULO
+BRAZIL DEFEATS GERMANY AND BEGINS TO FORGET 7-1 (Mar 27, 2018)  
+GAME THERMOMETER. The survey showed the behavior of Brazilian fans on Twitter during the first match between Brazil and Germany after the 7-1 defeat.  
+<a href="https://www1.folha.uol.com.br/esporte/2018/03/brasil-vence-alemanha-e-comeca-a-enterrar-o-7-a-1.shtml"><strong>Read the article.</strong></a>
 
-<a href="https://noticias.uol.com.br/politica/ultimas-noticias/2020/03/12/patricia-campos-mello-ataques-twitter.htm">**Leia a matéria.**</a>  
-<a href="https://github.com/juditecypreste/analise-tweets-contra-jornalista-patricia-campos-mello">**Leia a análise de dados.**</a>  
+<br>
+JAILED, LULA RECEIVED 75% NEGATIVE MENTIONS (Apr 9, 2018)  
+An analysis of 196,813 tweets showed 75% negative mentions of former President Lula after his imprisonment.  
+<a href="https://www1.folha.uol.com.br/poder/2018/04/preso-lula-teve-75-de-mencoes-negativas.shtml"><strong>Read the article.</strong></a>
 
-O OSCAR DELES: UOL ANALISOU VENCEDORES DE MELHOR FILME, ATOR E ATRIZ; HOMENS PROTAGONIZAM MAIS E TÊM PAPÉIS MAIS DIVERSOS (9.fev.2020)  
-Ao longo de semanas, a reportagem do UOL assumiu a missão de analisar os vencedores de 91 edições de Oscar nas categorias de melhor filme, melhor ator e melhor atriz, a fim de identificar quais eram os protagonistas dos longas ganhadores e que tipo de papel rendeu a homens e mulheres os prêmios mais cobiçados do cinema. O resultado mostra, com dados,a disparidade de gênero na maior premiação do cinema.
-
-<a href="https://entretenimento.uol.com.br/reportagens-especiais/apos-91-edicoes-o-oscar-ainda-e-um-clube-do-bolinha/index.htm#tematico-1">**Leia a matéria.**</a>  
-<a href="https://github.com/juditecypreste/Scraper-Oscar">**Leia a análise de dados.**</a>  
-
-REDE DE FAKE NEWS COM ROBÔS PRÓ-BOLSONARO MANTÉM 80% DAS CONTAS ATIVAS (19.set.2019)  
-Análise mostra que 1.355 linhas telefônicas, que faziam parte de rede de desinformação pró-Bolsonaro durante eleições 2018, ainda estavam ativas e divulgando desinformação pelo aplicativo WhatsApp.
-
-<a href="https://noticias.uol.com.br/politica/ultimas-noticias/2019/09/19/fake-news-pro-bolsonaro-whatsapp-eleicoes-robos-disparo-em-massa.htm">**Leia a matéria.**</a>   
-
-PROCESSADAS POR ABORTO: MULHERES SÃO DENUNCIADAS POR MÉDICOS E FAMÍLIARES (13.set.2019)  
-Dados exclusivos obtidos no Banco Nacional de Mandados de Prisão mostram casos de mulheres que respondem processos criminais por praticar aborto.
-
-<a href="https://www.uol.com.br/universa/noticias/redacao/2019/09/13/prisoes-e-muito-dinheiro-do-sus-as-historias-reveladas-do-aborto-no-pais.htm">**Leia a matéria.**</a>    
-
-### Aos Fatos
-RELATOS DE FALTA DE VERBA E ABANDONO DO MUSEU NACIONAL REMONTAM À DÉCADA DE 1950 (3.set.2018)  
-Reportagem identificou registros de alertas para o risco de incêndios no Museu Nacional desde os anos 1970. Reclamações de cortes de verbas e de falta de manutenção adequada são ainda mais antigas e datam da década de 1950, segundo levantamento realizado.
-
-<a href="https://www.aosfatos.org/noticias/relatos-de-falta-de-verba-e-abandono-do-museu-nacional-remontam-decada-de-1950/">**Leia a matéria.**</a>  
-
-CIDADES-SEDE DA COPA DE 2014 AINDA TÊM OBRAS POR FAZER E PROBLEMAS DE TRANSPARÊNCIA (16.jul.2018)  
-Série de reportagens sobre as obras prometidas para a Copa de 2014 no Brasil mostrou lacunas expressivas dos empreendimentos prometidos para o evento por parte da administração pública. Além disso, a CGU (Controladoria Geral da União), responsável pela manutenção e alimentação dos dados sobre as obras, retirou as informações do ar após o começo da série mostrando a falta de cumprimento da Lei de Acesso à Informação.
-
-<a href="https://www.aosfatos.org/noticias/cidades-sede-da-copa-de-2014-ainda-tem-obras-por-fazer-e-problemas-de-transparencia/">**Leia a série completa.**</a>   
-
-### Folha de S.Paulo
-BRASIL VENCE A ALEMANHA E COMEÇA A ESQUECER O 7 A 1 (27.mar.2018)  
-TERMÔMETRO DO JOGO. Levantamento mostrou o comportamento dos torcedores brasileiros no Twitter durante o primeiro jogo entre o Brasil e a Alemanha após o 7 a 1.
-
-<a href="https://www1.folha.uol.com.br/esporte/2018/03/brasil-vence-alemanha-e-comeca-a-enterrar-o-7-a-1.shtml">**Leia a matéria.**</a>  
-
-PRESO, LULA TEVE 75% DE MENÇÕES NEGATIVAS (9.abr.2018)  
-Análise de 196.813 tuítes mostra 75% de menções negativas contra o ex-presidente Lula após o decreto de sua prisão.
-
-<a href="https://www1.folha.uol.com.br/poder/2018/04/preso-lula-teve-75-de-mencoes-negativas.shtml">**Leia a matéria.**</a>  
-
-SISTEMA DA JUSTIÇA VIOLA SIGILO E EXPÕE CRIANÇAS VÍTIMAS DE ESTUPRO (26.abr.2018)  
-Base de dados do Conselho Nacional de Justiça expõe informações sigilosas de vítimas, incluíndo nomes e detalhes de crimes sexuais cometidos contra crianças.
-
-<a href="https://www1.folha.uol.com.br/cotidiano/2018/04/sistema-da-justica-viola-sigilo-e-expoe-criancas-vitimas-de-estupro.shtml">**Leia a matéria.**</a>  
+<br>
+JUSTICE SYSTEM VIOLATES SECRECY AND EXPOSES CHILDREN VICTIMS OF RAPE (Apr 26, 2018)  
+The National Council of Justice's database exposes confidential information about victims, including names and details of sexual crimes against children.  
+<a href="https://www1.folha.uol.com.br/cotidiano/2018/04/sistema-da-justica-viola-sigilo-e-expoe-criancas-vitimas-de-estupro.shtml"><strong>Read the article.</strong></a>

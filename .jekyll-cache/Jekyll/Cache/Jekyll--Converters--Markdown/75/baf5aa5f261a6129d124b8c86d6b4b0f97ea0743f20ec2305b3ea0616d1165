@@ -1,12 +1,4 @@
----
-layout: page
-title: 
-subtitle: 
-sitemap:
-priority: 0.9
----
-
-<img src="{{ '/assets/img/me.png' | prepend: site.baseurl }}" id="about-img">
+I"¡<p><img src="/assets/img/me.png" id="about-img" /></p>
 <div id="describe-text">
 <p>IÂ´m Judite Cypreste, a data and investigative journalist, trainer and speaker</p>
 </div>
@@ -14,3 +6,4 @@ priority: 0.9
 <div id="describe-professional">
 	<p>I believe that a good Data Journalist delivers more than incomprehensible tables and percentages. That's why I produce reports and projects using programming and data scraping and analysis tools</p>
 </div>
+:ET

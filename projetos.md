@@ -1,26 +1,26 @@
 ---
 layout: page
-title: Projetos
-subtitle: Confira meus projetos e iniciativas
+title: Projects
+subtitle: Projects and initiatives created for the purpose of study and enjoyment
 ---
 ## Colaboradados
-O veículo colaborativo sobre transparência e dados abertos do Brasil.
+The collaborative platform on transparency and open data in Brazil.
 
-<a href="http://colaboradados.com.br/">**Conheça a iniciativa.**</a>  
-<a href="https://github.com/colaboradados">**Veja o código.**</a>
+<a href="http://colaboradados.com.br/">**Explore the initiative.**</a>  
+<a href="https://github.com/colaboradados">**View the code.**</a>
 
 ## PyRolês
-Um bot do Telegram responsável por guardar e publicar todas as fotos extra-oficiais de eventos Python. Atualmente o projeto está dentro do repositório da Python Brasil.  
- 
-<a href="https://github.com/pythonbrasil/PyRoles">**Veja o código.**</a> 
- 
-## Coração Radiante  
-O brasileiro é um técnico de futebol nato, de alma, de coração. Por conta disto, surgiu a ideia de entender como o torcedor brasileiro reagiu durante as partidas de futebol da Seleção Brasileira durante a Copa do Mundo. Quais foram os termos favoritos? Como ficaram os ânimos durante os lances? De que forma o torcedor se comportou e reagiu frente a um gol ou um cartão amarelo? A partir de uma raspagem no Twitter, durante todas as partidas da seleção brasileira, e uma análise de sentimentos, surgiu o Projeto Coração Radiante.
+A Telegram bot responsible for storing and publishing all unofficial photos from Python events. Currently, the project is hosted within the Python Brasil repository.
 
-<a href="https://medium.com/projeto-cora%C3%A7%C3%A3o-radiante">**Conheça o projeto.**</a>  
+<a href="https://github.com/pythonbrasil/PyRoles">**View the code.**</a>
+
+## Coração Radiante  
+The Brazilian is a natural-born soccer coach, with soul and heart. Because of this, the idea arose to understand how the Brazilian soccer fan reacted during the matches of the Brazilian national team during the World Cup. What were the favorite terms? How were the emotions during the plays? How did the fan behave and react to a goal or a yellow card? From scraping Twitter during all Brazilian national team matches and sentiment analysis, the Coração Radiante Project was born.
+
+<a href="https://medium.com/projeto-cora%C3%A7%C3%A3o-radiante">**Explore the project.**</a>  
 
 ## Ganha-Pão
-Um caderno de estudos sobre os que pleitam um cargo político no país nas eleições 2018.
+A study notebook about those running for political office in the country during the 2018 elections.
 
-<a href="https://medium.com/ganha-p%C3%A3o">**Conheça o projeto.**</a>  
-<a href="https://github.com/juditecypreste/Ganha-Pao">**Veja o código.**</a>
+<a href="https://medium.com/ganha-p%C3%A3o">**Explore the project.**</a>  
+<a href="https://github.com/juditecypreste/Ganha-Pao">**View the code.**</a>

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Cursos & Tutoriais
-subtitle: Materiais para estudo compartilhados
+title: Courses & Tutorials
+subtitle: Some of the materials I used for teaching (in Portuguese)
 ---
 
 <div>
@@ -21,7 +21,6 @@ subtitle: Materiais para estudo compartilhados
 <li class="post-teaser">
 <a href="{{ post.url | prepend: site.baseurl }}">
 <span class="post-teaser__title">{{ post.title }}</span>
-<span class="post-teaser__date">{{ post.date | date: "%d %B %Y" }}</span>
 </a>
 </li>
 {% endfor %}

@@ -2,7 +2,7 @@
 layout: page
 title:  "Jornalismo de dados para universitários"
 date:   2022-07-02 21:21:21 
-categories: ["jornalismo de dados"]
+categories: ["data journalism"]
 ---
 Nesta página está disponível o material utilizado para as minhas aulas de jornalismo de dados oferecidas aos alunos da UNB. Este material ficará disponível para acesso aos estudantes e todos aqueles que buscam materiais de apoio sobre o tema.
  

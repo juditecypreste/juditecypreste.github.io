@@ -2,7 +2,7 @@
 layout: page
 title:  "Como o Jornalismo de Dados pode nos ajudar"
 date:   2020-05-11 21:21:21 
-categories: ["jornalismo de dados"]
+categories: ["data journalism"]
 ---
 
 Esta foi uma apresentação feita para jornalistas do Portal UOL.
