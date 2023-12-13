@@ -270,11 +270,9 @@ strong {
     width: 100%;
   }
 
-  /* ... (outras modificações específicas para telas menores) ... */
 }
 
 /* Image Gallery styles */
-
 .image-gallery {
   text-align: center;
 }
@@ -300,12 +298,25 @@ strong {
 
 /* Column */
 .coluna {
-  width: 50%; 
+  width: 50%; /* Ajuste para ocupar metade da largura na versão desktop */
   float: left;
 }
+
 .coluna-container {
   display: flex;
   justify-content: space-between;
+}
+
+/* Small screen styles */
+@media (max-width: 500px) {
+  .coluna {
+    width: 100%; /* Alteração para ocupar 100% na versão mobile */
+    float: none; /* Removido o float para a versão mobile */
+  }
+
+  .coluna-container {
+    flex-direction: column; /* Alteração para coluna na versão mobile */
+  }
 }
 
 /* Footer styles */
@@ -326,7 +337,6 @@ strong {
 }
 
 @keyframes glitch {
-  /* Your keyframes for the glitch effect (as previously defined) */
 }
 
 /* Custom styles */

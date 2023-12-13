@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img src="{{ '/assets/img/me_teste.png' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/me.png' | prepend: site.baseurl }}" id="about-img">
 <div id="describe-text">
 <p>I´m Judite Cypreste, a data and investigative journalist, trainer and speaker</p>
 </div>
