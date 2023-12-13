@@ -22,9 +22,9 @@ subtitle:
     <ul>
       <li>AWARDS
         <ul>
-          <li>PREMIO A LA EXCELENCIA PERIODÍSTICA <br> Honorable Mention (2019) - <a href='https://ok.org.br/noticia/conheca-os-vencedores-do-premio-claudio-weber-de-jornalismo-de-dados/'> For the election coverage in 2018 on the Aos Fatos platform. </a></li>
-          <li>SIGMA AWARDS <br> Finalist (2020) - <a href='https://ok.org.br/noticia/conheca-os-vencedores-do-premio-claudio-weber-de-jornalismo-de-dados/'> For the Colaborabot, a government transparency monitoring robot on Twitter. </a></li>
           <li>PRÊMIO LIVRE.JOR <br> 3rd Place (2022) - <a href='https://ok.org.br/noticia/conheca-os-vencedores-do-premio-claudio-weber-de-jornalismo-de-dados/'> For the publication of the article "Registros mostram 400 filhas pensionistas de militares como sócias de empresas milionárias". </a></li>
+          <li>SIGMA AWARDS <br> Finalist (2020) - <a href='https://ok.org.br/noticia/conheca-os-vencedores-do-premio-claudio-weber-de-jornalismo-de-dados/'> For the Colaborabot, a government transparency monitoring robot on Twitter. </a></li>
+          <li>PREMIO A LA EXCELENCIA PERIODÍSTICA <br> Honorable Mention (2019) - <a href='https://ok.org.br/noticia/conheca-os-vencedores-do-premio-claudio-weber-de-jornalismo-de-dados/'> For the election coverage in 2018 on the Aos Fatos platform. </a></li>
         </ul>
       </li>
       <li>RELEVANT TEACHING & LECTURES
