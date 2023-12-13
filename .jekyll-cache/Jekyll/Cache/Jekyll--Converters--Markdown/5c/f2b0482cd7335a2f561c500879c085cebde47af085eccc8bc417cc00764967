@@ -1,8 +1,4 @@
----
-layout: page
----
-
-<img src="{{ '/assets/img/me_teste.png' | prepend: site.baseurl }}" id="about-img">
+I"§<p><img src="/assets/img/me_teste.png" id="about-img" /></p>
 <div id="describe-text">
 <p>IÂ´m Judite Cypreste, a data and investigative journalist, trainer and speaker</p>
 </div>
@@ -10,3 +6,4 @@ layout: page
 <div id="describe-professional">
 	<p>I believe that a good Data Journalist delivers more than incomprehensible tables and percentages. That's why I produce reports and projects using programming and data scraping and analysis tools</p>
 </div>
+:ET

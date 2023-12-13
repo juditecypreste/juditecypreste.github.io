@@ -196,7 +196,7 @@ strong {
 /* Main Page styles */
 #about-img {
   border-radius: 13%;
-  max-width: 500px;
+  max-width: 250px;
   margin: auto;
   margin-bottom: 3%;
 }
@@ -216,9 +216,8 @@ strong {
 
 /* Small screen styles */
 @media (max-width: 500px) {
-  p, ul, ol, dl {
-    font-size: 100%;
-    line-height: 1.6;
+  body {
+    font-size: 90%;
   }
 
   .wrapper {
@@ -234,38 +233,44 @@ strong {
   }
 
   .social-links {
-    font-size: 200%;
+    font-size: 150%;
     margin: 10px auto;
   }
 
   .page-title {
     margin-top: 10px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
   }
 
   .page-title__text {
-    font-size: 150%;
+    font-size: 130%;
   }
 
   .page-title__subtitle {
-    font-size: 65%;
+    font-size: 55%;
+  }
+
+  .post-teaser {
+    margin-bottom: 10px;
   }
 
   .post-teaser__title {
-    font-size: 150%;
+    font-size: 130%;
     display: block;
     text-align: center;
     width: 100%;
   }
 
   .post-teaser__date {
-    font-size: 100%;
-    margin-top: 10px;
+    font-size: 90%;
+    margin-top: 5px;
     float: none;
     display: block;
     text-align: center;
     width: 100%;
   }
+
+  /* ... (outras modificações específicas para telas menores) ... */
 }
 
 /* Image Gallery styles */
