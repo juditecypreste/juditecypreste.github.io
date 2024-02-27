@@ -16,8 +16,8 @@ This special report explores the city, revealing the locations of the major inve
 </a>
 
 <br>
-SEU RIO, SUA RUA
-Neste especial capresentamos o projeto CEP, um projeto criado pela Prefeitura do Rio de Janeiro para combater a criminalidade na cidade. Por meio de dados e análises de dados de segurança, o programa foi responsável por diminuir índices de crimes em regiões onde foram implementadas medidas simples de urbanismo e cidadania.
+SEU RIO, SUA RUA (YOUR RIO, YOUR STREET)
+In this special feature, we present the CEP project, created by the Rio de Janeiro City Hall to combat crime in the city. Through data and security data analysis, the program has been responsible for reducing crime rates in areas where simple urbanism and citizenship measures have been implemented.
 <a href="https://viz.dados.rio/#/especial-seop/cep"><strong>Read the article.</strong>
 </a>
 
