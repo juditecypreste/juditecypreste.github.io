@@ -12,7 +12,9 @@ subtitle:
     <p>Currently, I am a data journalist at the Data Office of the Rio de Janeiro City Hall, where my goal is to understand and discuss the city through open data.</p>
     <p>I am also the founder and director of Colaboradados, the first Brazilian media outlet dedicated to transparency and open data in Brazil. Using programming and various tools, we explore the importance of data in society. Our project was recognized on GitHub and was a finalist for the Sigma Awards, the world's largest data journalism award.</p>
     <p>In 2023, I received a scholarship to attend the Lede Program, a specialization in Data Journalism at Columbia University in New York, where I deepened my knowledge of the use of Artificial Intelligence in reporting.</p>
-    <p>I am always delighted to share knowledge, whether through lectures or classes. You can check out one of my most recent courses by clicking here. This was the material taught to journalism students at the University of Brasilia.</p>
+    <p>I am always delighted to share knowledge, whether through lectures or classes. You can check out one of my most recent courses by 
+    <a href="https://juditecypreste.com/data%20journalism/2022/07/02/introdu%C3%A7%C3%A3o-jdd.html"><strong>clicking here</strong>
+    . This was the material taught to journalism students at the University of Brasilia.</p>
     <p>In my professional journey, I wrote for the Folha de São Paulo newspaper and worked at the Brazilian fact-checking agency Aos Fatos, helping combat fake news during the 2018 Brazilian elections.</p>
     <p>At UOL, I produced reports that were used as references by the Global Investigative Journalism Network. At GloboNews, I worked as a data reporting producer for the television news channel.</p>
     <p>If you believe I can assist you in your career or offer data-related tips, please send a message. <a href='https://adplist.org/mentors/judite-cypreste?session=25241-mentorship-session'> <strong>You can schedule a free mentoring session with me.</strong></a> I'll be happy to help!</p>

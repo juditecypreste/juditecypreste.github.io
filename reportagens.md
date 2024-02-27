@@ -12,7 +12,26 @@ This special feature was published on the official website of the G20, the prima
 <br>
 GREAT WORKS IN THE CITY OF RIO DE JANEIRO  
 This special report explores the city, revealing the locations of the major investments benefiting the population.  
-<a href="https://viz.dados.rio/#/obras"><strong>Read the article.</strong></a>
+<a href="https://viz.dados.rio/#/obras"><strong>Read the article.</strong>
+</a>
+
+<br>
+SEU RIO, SUA RUA
+Neste especial capresentamos o projeto CEP, um projeto criado pela Prefeitura do Rio de Janeiro para combater a criminalidade na cidade. Por meio de dados e análises de dados de segurança, o programa foi responsável por diminuir índices de crimes em regiões onde foram implementadas medidas simples de urbanismo e cidadania.
+<a href="https://viz.dados.rio/#/especial-seop/cep"><strong>Read the article.</strong>
+</a>
+
+<br>
+YOUR RIO, YOUR STREET
+In this special feature, we present the CEP project, created by the Rio de Janeiro City Hall to combat crime in the city. Through data and security data analysis, the program has been responsible for reducing crime rates in areas where simple urbanism and citizenship measures have been implemented.
+<a href="https://viz.dados.rio/#/especial-seop/cep"><strong>Read the article.</strong>
+</a>
+
+
+<br>
+DATA CARNIVAL
+In this special feature, we bring you the economic numbers behind the greatest show on Earth: Rio de Janeiro's carnival. In a quiz format, readers are invited to immerse themselves in the economic movement behind the event in the city.
+<a href="https://www.dados.rio/especiais/carnaval-de-dados"><strong>Read the article.</strong></a>
 
 <br>
 RIO DE JANEIRO WORLD CUP ALBUM  
