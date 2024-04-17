@@ -3,7 +3,6 @@ layout: page
 title: About
 subtitle:
 ---
-<span style="float: right;"><a href="{{ '/assets/curriculo_pt.pdf' | prepend: site.baseurl }}"><strong>> Meu currículo</strong></a></span>  
 <span style="float: right;"><a href="{{ '/assets/curriculo_en.pdf' | prepend: site.baseurl }}"><strong>> My resume</strong></a></span>
 <br>
 
