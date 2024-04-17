@@ -9,8 +9,9 @@ subtitle: Some of the stories I've written, investigated, or produced
 WITHOUT WHITE ELEPHANTS: EXPLORING NOMADIC ARCHITECTURE AT THE RIO 2016 OLYMPICS 
 In this special feature, we show how the Olympic and Paralympic Games that took place in Rio de Janeiro in 2016 forever changed the city, bringing significant advancements in areas such as mobility, leisure, and infrastructure for residents.  
 <a href="https://prefeitura-rio.github.io/LegadoOlimpico/"><strong>Read the article.</strong>
-</a>  
-
+</a>
+  
+<br>
 G20: RIO, WORLD CAPITAL  
 This special feature was published on the official website of the G20, the primary forum for international economic cooperation. This special is an invitation to travel back in time and discover why the city of Rio de Janeiro has always had the potential to be the world's capital. The same title of this special was used as a slogan and promoted at tourist spots around the city.  
 <a href="https://prefeitura-rio.github.io/G20Dataviz/"><strong>Read the article.</strong>
