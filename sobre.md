@@ -32,6 +32,7 @@ subtitle:
       </li>
       <li>RELEVANT TEACHING & LECTURES
         <ul>
+          <li> <a href='https://congresso.abraji.org.br/mesa/data-storytelling-no-jornalismo-como-contar-uma-historia-com-dados-alem-de-um-grafico-de-pizza'> DOMINGO DE DADOS - ABRAJI (Speaker) - 2024 </a></li>
           <li> <a href='https://premio.jornalismodedados.org/edicoes/2023/'> PRÊMIO CLÁUDIO WEBER ABRAMO (Jury) - 2023 </a></li>
           <li> <a href='https://us.pycon.org/2023/speaker/profile/29/'> PYCON (Speaker) - 2023 </a></li>
           <li> <a href='https://escoladedados.org/coda/coda2022/acessando-os-dados-da-cidade-maravilhosa-com-sql/'> CODA.BR (Workshop) - 2022 </a></li>
