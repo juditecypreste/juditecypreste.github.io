@@ -6,22 +6,22 @@ subtitle: Some of the stories I've written, investigated, or produced
 ### G1
 
 <br>
-Brazilian Cities That Have Only Elected Men for Over 20 Years
+BRAZILIAN CITIES THAT HAVE ONLY ELECTED MEN FOR OVER 20 YEARS
 This article highlights the gender gap in Brazilian politics, focusing on cities that have elected only men as mayors, vice-mayors, and councilors for over 20 years, despite women being the majority of the electorate.
 <a href="https://g1.globo.com/politica/eleicoes/2024/eleicao-em-numeros/noticia/2024/10/19/as-cidades-brasileiras-que-ha-mais-de-20-anos-so-elegem-homens-para-prefeito-vice-e-vereador.ghtml"><strong>Read the article</strong></a>
 
 <br>
-EXCLUSIVE: 2 Wanted by Justice Elected as Councilors, 18 as Alternates in the 2024 Elections
+EXCLUSIVE: 2 WANTED BY JUSTICE ELECTED AS COUNCILORS, 18 AS ALTERNATES IN THE 2024 ELECTIONS
 This exclusive investigation reveals that two candidates with open arrest warrants were elected as councilors in the 2024 elections, while 18 others were elected as alternates.
 <a href="https://g1.globo.com/politica/eleicoes/2024/eleicao-em-numeros/noticia/2024/10/12/exclusivo-2-procurados-pela-justica-foram-eleitos-vereadores-e-18-viraram-suplentes-no-1o-turno-das-eleicoes-2024.ghtml"><strong>Read the article</strong></a>
 
 <br>
-EXCLUSIVE: 61 Candidates Running in Elections Have Open Arrest Warrants
+EXCLUSIVE: 61 CANDIDATES RUNNING IN ELECTIONS HAVE OPEN ARREST WARRANTS
 This investigation reveals that 61 candidates in the 2024 elections are wanted by the police, most for child support debts. Three are accused of homicide, and three others were involved in the January 8 riots. The report details the charges and legal status of these individuals.
 <a href="https://g1.globo.com/politica/eleicoes/2024/eleicao-em-numeros/noticia/2024/09/18/exclusivo-eleicoes-2024-candidatos-alvos-de-mandados-de-prisao-em-aberto.ghtml"><strong>Read the article</strong></a>
 
 <br>
-764,000 Names to Check? How g1's Investigation Led to Candidate Arrests
+764,000 NAMES TO CHECK? HOW G1'S INVESTIGATION LED TO CANDIDATE ARRESTS
 This article explains how g1 used programming tools to cross-reference 302,500 arrest warrants with 461,500 candidacy records, leading to the identification and arrest of candidates with open warrants.
 <a href="https://g1.globo.com/politica/eleicoes/2024/eleicao-em-numeros/noticia/2024/09/20/como-o-g1-fez-a-reportagem-sobre-os-61-candidatos-das-eleicoes-2024-alvos-de-mandados-de-prisao-em-aberto.ghtml"><strong>Read the article</strong></a>
 
