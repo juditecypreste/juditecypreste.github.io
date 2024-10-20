@@ -8,18 +8,16 @@ subtitle:
 
 <div class="coluna-container">
   <div class="coluna">
-    <p>I'm a data journalist and I use investigative and data analysis techniques to find good stories.</p>
-    <p>I am also the founder and director of Colaboradados, the first Brazilian media outlet dedicated to transparency and open data in Brazil. Using programming and various tools, we explore the importance of data in society. Our project was recognized on GitHub and was a finalist for the Sigma Awards, the world's largest data journalism award.</p>
-    <p>In 2023, I received a scholarship to attend the Lede Program, a specialization in Data Journalism at Columbia University in New York, where I deepened my knowledge of the use of Artificial Intelligence in reporting.</p>
-    <p>I am always delighted to share knowledge, whether through lectures or classes. You can check out one of my most recent courses by 
-    <a href="https://juditecypreste.com/data%20journalism/2022/07/02/introdu%C3%A7%C3%A3o-jdd.html"><strong>clicking here</strong></a>
-    . This was the material taught to journalism students at the University of Brasilia.</p>
-    <p>In my professional journey, I wrote for the Folha de São Paulo newspaper and worked at the Brazilian fact-checking agency Aos Fatos, helping combat fake news during the 2018 Brazilian elections.</p>
-    <p>At UOL, I produced reports that were used as references by the Global Investigative Journalism Network. At GloboNews, I worked as a data reporting producer for the television news channel.</p>
-    <p>At Metrópoles, I covered politics and analyzed data for award-nominated reports. I also worked as a data journalist at the Rio de Janeiro City Hall Data Office, where I was responsible for producing data visualizations and narratives to communicate information about the city and public policies.</p>
-    <p>I served as a Fiscal Counselor at the Python Brazil Association (APyB) and am a member of PyLadies, promoting female participation in technology.</p>
-    <p>If you believe I can assist you in your career or offer data-related tips, please send a message. <a href='https://adplist.org/mentors/judite-cypreste?session=25241-mentorship-session'> <strong>You can schedule a free mentoring session with me.git </strong></a> I'll be happy to help!</p>
-    <p>For classes, lectures, or freelance/commissioned projects, please get in touch. I'm always excited to have a good coffee and a great conversation.</p>
+<p>I'm a data journalist and I use investigative and data analysis techniques to find good stories. I am currently a data journalist at <a href="https://g1.globo.com/autores/judite-cypreste/" target="_blank"><strong>g1</strong></a>, Globo's news portal.</p>
+<p>I am also the founder and director of Colaboradados, the first Brazilian media outlet dedicated to transparency and open data in Brazil. Using programming and various tools, we explore the importance of data in society. Our project was recognized on GitHub and was a finalist for the Sigma Awards, the world's largest data journalism award.</p>
+<p>In 2023, I received a scholarship to attend the Lede Program, a specialization in Data Journalism at Columbia University in New York, where I deepened my knowledge of the use of Artificial Intelligence in reporting.</p>
+<p>I am always delighted to share knowledge, whether through lectures or classes. You can check out one of my most recent courses by 
+<a href="https://juditecypreste.com/data%20journalism/2022/07/02/introdu%C3%A7%C3%A3o-jdd.html"><strong>clicking here</strong></a>. This was the material taught to journalism students at the University of Brasilia.</p>
+<p>In my professional journey, I wrote for the Folha de São Paulo newspaper and worked at the Brazilian fact-checking agency Aos Fatos, helping combat fake news during the 2018 Brazilian elections.</p>
+<p>At UOL, I produced reports that were used as references by the Global Investigative Journalism Network. At GloboNews, I worked as a data reporting producer for the television news channel.</p>
+<p>At Metrópoles, I covered politics and analyzed data for award-nominated reports. I also worked as a data journalist at the Rio de Janeiro City Hall Data Office, where I was responsible for producing data visualizations and narratives to communicate information about the city and public policies.</p>
+<p>I served as a Fiscal Counselor at the Python Brazil Association (APyB) and am a member of PyLadies, promoting female participation in technology.</p>
+<p>For classes, lectures, or freelance/commissioned projects, please get in touch. I'm always excited to have a good coffee and a great conversation.</p>
   </div>
   <div class="coluna">
     <ul>
